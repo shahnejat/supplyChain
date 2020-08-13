@@ -1,0 +1,55 @@
+.output {
+    position: relative;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 12px;
+    background-color: #f5f5f5;
+    color: black;
+  }
+
+  .title {
+    margin-top: 15px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: #3b5998;
+
+  }
+
+  .itemA {
+    position: relative;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 12px;
+    background-color: #f5f5f5;
+    color: rgb(209, 12, 12);
+
+  }
+  
+  .itemB{
+    position: relative;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding: 12px;
+    background-color: #f5f5f5;
+    color: rgb(17, 65, 5);
+
+  }
+
+  .itemC {
+    position: relative;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding: 12px;
+    background-color: #f5f5f5;
+    color: rgb(173, 146, 9);
+
+  }

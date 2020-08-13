@@ -1,0 +1,14 @@
+/**
+ * Progress bars with centered text
+ */
+.pbar div{
+    background-color: #3b5998;
+}
+
+.pbar{
+    margin: 10px;
+}
+
+/*.span { 
+    color: #3b5998;
+}*/
